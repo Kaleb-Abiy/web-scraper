@@ -119,7 +119,7 @@ def reset_page_state(driver, data_type, year, attend_range=None, wait_timeout=30
 
 def map_year(year):
     """
-    Map year format from '2019-20' to '2020'.
+    Map year format from '2019-20' to '2021'.
     
     Args:
         year: Year string in format 'YYYY-YY'
